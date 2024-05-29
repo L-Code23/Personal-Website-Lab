@@ -1,0 +1,104 @@
+p{
+    border: 3px solid black;
+    padding: 10px;
+    font-size: 18px;
+    font-weight: 500px;
+    font-weight: bolder;
+    color:white;
+    background-color: slategray;
+
+}
+
+
+h2 {
+    color: white;
+    font-family: verdana;
+    font-size: 200%;
+    border: 5px solid black;
+    text-align: left;
+    background-color: slategray;
+  }
+
+  header{
+    
+    font-size: 500%;
+    font-family: verdana;
+    text-align: center;
+    color: white;
+    font-weight: bolder; 
+  }
+  
+  h1{
+    color:white;
+    font-family: verdana;
+    font-size: 150%;
+    border: 5px solid black;
+    text-align: center;
+    background-color: slategray;
+}
+
+body
+{
+    background-image: url('Brooklyn brownstone');
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+  }
+
+  footer
+  {
+    color: white;
+    font-family: verdana;
+    font-size: 150%;
+    border: 5px solid black;
+    text-align: justify;
+    background-color: slategray
+    ;
+  
+  }
+  ul
+  {
+    color:white;
+    font-family: verdana;
+    font-size: 200%;
+    text-align: center;
+    
+  }
+
+  .google-map {
+    padding-bottom: 50%;
+    position: relative;
+}
+
+.google-map iframe {
+    height: 100%;
+    width: 100%;
+    left: 0;
+    top: 0;
+    position: absolute;
+}
+
+a:link {
+    color: black;
+    background-color: transparent;
+    text-decoration: underline;
+
+  }
+  
+  a:visited {
+    color: pink;
+    background-color: transparent;
+    text-decoration: underline;
+  }
+  
+  a:hover {
+    color: red;
+    background-color: transparent;
+    text-decoration: underline;
+  }
+  
+  a:active {
+    color: yellow;
+    background-color: transparent;
+    text-decoration: underline;
+  }
